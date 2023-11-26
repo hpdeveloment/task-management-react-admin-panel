@@ -1,6 +1,6 @@
 # task-management-react-admin-panel
 
-I have done admin panel for task management in react js, here you can add the new task, edit the new task and also can delete the task, I have store tast in localstorage so it will not remove after refresh the page.
+I have done admin panel for task management in react js, here you can add the new task, edit the new task and also can delete the task, I have store task in localstorage so it will not remove after refresh the page.
 
 Here is some step to run it in you local system:-
 
